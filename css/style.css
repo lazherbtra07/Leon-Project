@@ -221,7 +221,7 @@ body
   background-size: cover;
   height: calc(100vh - 64px);
   position: relative;
-  margin: -10px
+  margin-top : -10px;
 }
 .landing .intro-text
 {
